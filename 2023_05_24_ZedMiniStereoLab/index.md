@@ -4,7 +4,9 @@
  # Zed Mini
 
 Weight: <100g 
-https://www.stereolabs.com/zed-mini/
+Video: https://odysee.com/2023_05_24_ZedMiniStereoLab:453619d0db03c361b1321d58faf55b6b7d521955
+
+Website: https://www.stereolabs.com/zed-mini/
 
 ![image](https://github.com/EloiStree/ResellingCatalog/assets/20149493/2f8fabf2-0070-48e5-bd53-cb5294e15feb)
 
