@@ -10,3 +10,5 @@ Weight: 580g x2 =1.6kg
 ![WIN_20230524_16_30_07_Pro](https://github.com/EloiStree/ResellingCatalog/assets/20149493/1167715d-3e29-48be-8d66-688b9c71ee24)
 
 Video: https://odysee.com/2023_05_24_MSIBattery:80f040812a814bc3d13f1c5bfb464327695d029f
+
+Links: https://www.msi.com/news/detail/MSIVROneTheMostPowerfulBackpackPCisnowontheMarketFeaturingIntelCorei7fortheBestVRexperiencefreefromtherestraintofcableswithalight36kgbackpackfor90minutes11317
