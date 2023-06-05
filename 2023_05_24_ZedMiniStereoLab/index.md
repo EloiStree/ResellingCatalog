@@ -1,4 +1,5 @@
- Not sold
+Sold
+
  ----------
  
  # Zed Mini
